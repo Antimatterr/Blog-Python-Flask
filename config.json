@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/wisepage",
+    "prod_uri": "mysql://root:@localhost/wisepage",
+    "fb_url": "https://facebook.com/wisepage",
+    "tw_url": "https://twitter.com/wisepage",
+    "gh_url": "https://github.com/wisepage",
+    "blog_name": "WiSe PAge",
+    "gmail_user": "ssid23121@gmail.com",
+    "gmail_password": "this was fake account",
+    "about_text": "hey this is sid ..Wise PAge owner",
+    "no_of_posts": 4,
+    "logo-image": "WiSePAge.png",
+    "admin_user": "sidhant",
+    "admin_password": "admin",
+    "upload_location": "D:\\flask_project\\static\\img"
+  }
+}
